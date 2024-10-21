@@ -1,0 +1,26 @@
+.btn {
+    background-color: rgba(0, 152, 39, 255) !important;
+}
+
+.list-group a:hover {
+    color: white;
+    background-color: rgba(0, 152, 39, 255) !important;
+}
+
+.card-header,
+.card-footer {
+    background-color: rgba(0, 152, 39, 255) !important;
+    color: white;
+}
+
+th {
+    background-color: rgba(0, 152, 39, 255) !important;
+    color: white;
+    text-align: center;
+}
+
+.page-link:hover {
+    background-color: rgb(8, 110, 194) !important;
+    color: white;
+
+}
